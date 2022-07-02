@@ -13,6 +13,5 @@ func main(){
 		if a*a*a+b*b*b+c*c*c == i{
 			fmt.Println(i)
 		}
-	}
-	
+	}	
 }
